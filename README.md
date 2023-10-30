@@ -1,6 +1,8 @@
 # HW4
 
 Daniel Lamp: lampd19@students.ecu.edu
+Jackson Bass: bassja18@students.ecu.edu
+Jose Hernandez: hernandezjos20@students.ecu.edu
 
 
 The best model is Linear Regression with an accuracy of 0.8453827595922788 and no alpha value
